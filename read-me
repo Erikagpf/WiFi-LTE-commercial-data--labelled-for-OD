@@ -1,0 +1,4 @@
+This repository contains labelled WiFi and LTE spectograms.
+Folder "Images" contain all the spectograms of commercial transmissions collected in Belgium.
+In the folder "Annotation"" are the labels of some of these images. Not all images have labelles as it is manually expensive to generate them, although in the research produced by Erika Fonseca for her PhD thesis, the object detection model based on YLO performed well using these data.
+The labelling was done using the tool LabelImg (https://github.com/tzutalin/labelImg).
