@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>wf_g76_rabot_f5240MHz_r3.bin73-heatmap.png</filename>
+	<path>/home/erika/Documents/labelling/general_imec/Images/wf_g76_rabot_f5240MHz_r3.bin73-heatmap.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>104</width>
+		<height>104</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wifi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>84</ymin>
+			<xmax>104</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>
